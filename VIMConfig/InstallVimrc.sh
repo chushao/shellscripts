@@ -1,5 +1,5 @@
 #!/bin/bash
-# InstallVIMRC.sh
+# InstallVimrc.sh
 # June 1st 2013
 # By Chu Shao
 # 
